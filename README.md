@@ -8,6 +8,8 @@ An RSI (Relative Strength Index) toolkit for TradingView, built by [QuantZee](ht
 
 Written from scratch, open source, `@version=6`.
 
+Learn more at [quantzee.com](https://quantzee.com/).
+
 ## Features
 
 | Group | What it does |
